@@ -3,6 +3,8 @@ takeout-order
 
 外卖订餐系统-后端项目，使用 ThinkPHP6 + MySQL 搭建。
 
+[前端项目](https://github.com/GreatArchimage/takeout-order-front)
+
 启动项目前需导入数据库并修改数据库配置文件。
 
 管理员账号密码：admin/admin
